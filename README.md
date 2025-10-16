@@ -26,11 +26,11 @@ Objective:
 These insights employer stakeholders with key buismess metrics, enabling strategic decision making
 
 ---
-License:
+### License:
 - This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution
 
 ---
-About Me:
+### About Me:
 
  - HI :)! I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights.
  - Currently, I work as a Threat Intelligence Analyst, where I collect, structure, and analyze large datasets from sources like the dark web and Telegram. This role has strengthened my ability to design efficient data workflows, automate data collection, and extract meaningful patterns from diverse data environments.
