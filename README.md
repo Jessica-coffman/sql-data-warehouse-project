@@ -10,11 +10,11 @@ TLDR: This project showcases the ability to build a modern data warehouse with S
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and infored decision-making.
 
 ### Specifications: 
-    **Data Sources:** Import data from two sources systems (ERP and CRM) provided as CSV files.
-    **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
-    **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
-    **Scope:** Focus on the latest dataset only; historization of data is not required
-    **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+- **Data Sources:** Import data from two sources systems (ERP and CRM) provided as CSV files.
+- **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
+- **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope:** Focus on the latest dataset only; historization of data is not required
+- **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
 ### BI: Analytics and Reporting (Data Analytics)
@@ -27,13 +27,12 @@ These insights employer stakeholders with key buismess metrics, enabling strateg
 
 ---
 License:
-    This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution
+- This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution
 
 ---
 About Me:
 
-    HI :)! I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights. Currently, I work as a Threat Intelligence Analyst, where I collect, structure, and analyze large datasets from sources like the dark web and Telegram. This role has strengthened my ability to design efficient data workflows, automate data collection, and extract meaningful patterns from diverse data environments.
-
-    I’m also pursuing a Master of Science in Information Technology: Software Engineering at the University of Maryland Global Campus, specializing in data engineering. My graduate work focuses on building reliable ETL pipelines, developing scalable data systems, and applying software engineering best practices using Python and SQL.
-
-    I’m especially interested in building secure, automated, and data-driven systems that bridge the gap between intelligence analysis and modern data engineering
+ - HI :)! I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights.
+ - Currently, I work as a Threat Intelligence Analyst, where I collect, structure, and analyze large datasets from sources like the dark web and Telegram. This role has strengthened my ability to design efficient data workflows, automate data collection, and extract meaningful patterns from diverse data environments.
+- I’m also pursuing a Master of Science in Information Technology: Software Engineering at the University of Maryland Global Campus, specializing in data engineering. My graduate work focuses on building reliable ETL pipelines, developing scalable data systems, and applying software engineering best practices using Python and SQL.
+- I’m especially interested in building secure, automated, and data-driven systems that bridge the gap between intelligence analysis and modern data engineering
