@@ -33,6 +33,4 @@ These insights employer stakeholders with key buismess metrics, enabling strateg
 ### About Me:
 
  - HI :)! I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights.
- - Currently, I work as a Threat Intelligence Analyst, where I collect, structure, and analyze large datasets from sources like the dark web and Telegram. This role has strengthened my ability to design efficient data workflows, automate data collection, and extract meaningful patterns from diverse data environments.
-- I’m also pursuing a Master of Science in Information Technology: Software Engineering at the University of Maryland Global Campus, specializing in data engineering. My graduate work focuses on building reliable ETL pipelines, developing scalable data systems, and applying software engineering best practices using Python and SQL.
 - I’m especially interested in building secure, automated, and data-driven systems that bridge the gap between intelligence analysis and modern data engineering
