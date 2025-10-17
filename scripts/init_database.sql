@@ -20,15 +20,16 @@ USE master;
 GO
 
   --check if 'DataWarehouse' exists. if so, drop the database
-  IF EXISTS (Select 1 FROM sys.databases WHERE name = "DataWarehouse")
+  IF EXISTS (Select 1 FROM sys.databases WHERE name = 'DataWarehouse')
   BEGIN
-    ALTER DATABASE DataWarehouse SET SINGLE USER WITH ROLLBACK IMMEDIATE;
+    ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
     DROP DATABASE DataWarehouse;
 END;
 GO
 
 -- Create a database called 'DataWarehouse'
 CREATE DATABASE DataWarehouse;
+GO
 
 --set database to datawarehouse
 USE DataWarehouse;
