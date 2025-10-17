@@ -22,7 +22,8 @@ Objective:
  - Develop SQL-based analytics to deliver detailed insights into:
  - **Customer Behavior**
  - **Product Performace**
- - **Sales Trends**
+ - **Sales Trends** 
+   
 These insights employer stakeholders with key buismess metrics, enabling strategic decision making
 
 ---
@@ -32,5 +33,5 @@ These insights employer stakeholders with key buismess metrics, enabling strateg
 ---
 ### About Me:
 
- - HI :)! I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights.
+ - HI! :) I am [Jessica](https://www.linkedin.com/in/jessica-coffman-aa0890294/) a data-focused analyst with hands-on experience transforming complex, unstructured information into actionable insights.
 - I’m especially interested in building secure, automated, and data-driven systems that bridge the gap between intelligence analysis and modern data engineering
