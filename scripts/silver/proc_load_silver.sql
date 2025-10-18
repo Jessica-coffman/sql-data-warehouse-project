@@ -169,7 +169,7 @@ BEGIN
                 ELSE 'n/a'
             END AS gen
           FROM bronze.erp_cust_az12
-          WHERE bdate < '1924-01-01'OR bdate > GETDATE()
+          WHERE bdate < GETDATE()
 
 
     SET @start_time = GETDATE();
