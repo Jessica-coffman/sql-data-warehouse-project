@@ -19,8 +19,8 @@ USE DataWarehouse
         cst_key NVARCHAR(50),
         cst_first_name NVARCHAR(50),
         cst_last_name NVARCHAR(50),
-        cst_material_status NVARCHAR(50),
-        cst_gender NVARCHAR(50),
+        cst_marital_status NVARCHAR(50),
+        cst_gndr NVARCHAR(50),
         cst_create_date DATE
     );
     GO
