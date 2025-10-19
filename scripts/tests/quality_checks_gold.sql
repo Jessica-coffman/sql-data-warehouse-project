@@ -4,7 +4,7 @@ This is just a log of my progress while putting together the gold
 views that can be found at ...scripts/gold
 feel free to run these, but keep in mind that most of this is notes for myself
 */
-	--now join the viwes with this table and assign nice names
+	--now join the views with this table and assign nice names
 
 SELECT cst_id, COUNT(*) FROM ( --using this to check to see if any duplicates were created due to duplicated primary keys
 
